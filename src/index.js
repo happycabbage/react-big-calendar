@@ -8,6 +8,7 @@ export const components = {
 }
 
 export { default as Calendar } from './Calendar'
+export { default as TimeZoneCalendar } from './TimeZoneCalendar'
 export { DateLocalizer } from './localizer'
 export { default as momentLocalizer } from './localizers/moment'
 export { default as globalizeLocalizer } from './localizers/globalize'
